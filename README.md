@@ -27,7 +27,7 @@
 **𝗙𝗢𝗥𝗞 𝗡𝗢𝗪 [_TAP ON ICON_]
 
 <p align="left">
-<a href="https://github.com/Wajackoya/wajack_md/fork"><img align="left" src="https://i.ibb.co/cgSL5wv/1705786098402-xl7hci-2-0.jpg" alt="Fork" height="150" width="150" /></a>
+<a href="https://github.com/Wajackoya/wajack_md/fork"><img align="centre" src="https://i.ibb.co/cgSL5wv/1705786098402-xl7hci-2-0.jpg" alt="fork" height="150" width="150" /></a>
 
 ---
 
