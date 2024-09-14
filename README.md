@@ -9,10 +9,10 @@
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
-<h1 align="center">WAJAC_MD- MultiDevice</h1>
+<h1 align="center">wajack_md- MultiDevice</h1>
 
 <p align="center">
-  <a href="https://github.com/Wajackoya"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=WAJAC+MD+MultiDevice;Cool+Whatsapp+Bot+Modification;Developed+by+Wajackoya;Give+star+and+forks+this+Repo+🌟" alt="WAJAC_MDReadme"></a>
+  <a href="https://github.com/Wajackoya"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=wajack+md+MultiDevice;Cool+Whatsapp+Bot+Modification;Developed+by+Wajackoya;Give+star+and+forks+this+Repo+🌟" alt="wajack_mdReadme"></a>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 **𝗙𝗢𝗥𝗞 𝗡𝗢𝗪 [_TAP ON ICON_]
 
 <p align="left">
-<a href="https://github.com/Wajackoya/wajack_md/fork"><img align="left" src="https://i.ibb.co/cgSL5wv/1705786098402-xl7hci-2-0.jpg" alt="Fork and deploy" height="150" width="155" /></a>
+<a href="https://github.com/Wajackoya/wajack_md/fork"><img align="left" src="https://i.ibb.co/cgSL5wv/1705786098402-xl7hci-2-0.jpg" alt="Fork" height="150" width="150" /></a>
 
 ---
 
