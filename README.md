@@ -48,3 +48,8 @@
 - [Contact me on WhatsApp Messenger 🎐](https://wa.me/254102510747?text=Hello%20Wajackoya~Kun%20sir...%20I%20need%20some%20help%20in%20WAJAC%20MD)
 
 - My email address: [chrissoclino01@gmail.com](mailto:chrissoclino01@gmail.com) 🎐
+## Thanks to ✨
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>](https://github.com/Wajackoya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='tiktok' height='60'>](https://www.tiktok.com/wajacks8/)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='100' height='50'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='100' height='50'></a>
